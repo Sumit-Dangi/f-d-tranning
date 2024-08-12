@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(233, 228, 228);
+}
+#first{
+    padding-left: 800px;
+    /* text-align: right; */
+    height: 60px;
+    background-color: rgb(42, 84, 182);
+    color:white;
+}
+#second{
+    padding-left: 800px;
+     
+}
+p{
+    padding:0px 0px 100px 360px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    color: white;
+    background-color:rgb(42, 84, 182);
+    border: 2px solid black;
+}
+#b2{
+    background-color: green;
+}
+footer{
+    height: 100px;
+    background-color: white;
+}
